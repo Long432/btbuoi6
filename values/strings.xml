@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quản lý món ăn</string>
+
+    <string name="search_hint">Tìm tên món ăn...</string>
+    <string name="filter_btn">Lọc</string>
+    <string name="options_title">Tùy chọn</string>
+    <string name="edit_option">Chỉnh sửa món ăn</string>
+    <string name="delete_option">Xóa món ăn</string>
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_msg">Bạn có chắc chắn muốn xóa món này không?</string>
+    <string name="delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+
+    <string name="add_title">Thêm Món Ăn Mới</string>
+    <string name="edit_title">Chỉnh Sửa Món Ăn</string>
+    <string name="dish_name">Tên món ăn *</string>
+    <string name="dish_price">Giá tiền (VNĐ) *</string>
+    <string name="dish_time">Thời gian chế biến (Phút) *</string>
+    <string name="dish_category">Loại món ăn *</string>
+    <string name="dish_image">Đường dẫn ảnh (URL)</string>
+    <string name="dish_desc">Mô tả</string>
+    <string name="dish_available">Đang bán (Trạng thái hiển thị)</string>
+    <string name="save_btn">Lưu Món Ăn</string>
+    <string name="error_empty_name">Tên không được để trống</string>
+    <string name="error_invalid_price">Giá phải lớn hơn 0</string>
+    <string name="error_invalid_time">Thời gian phải lớn hơn 0</string>
+    <string name="msg_save_success">Đã lưu món ăn thành công!</string>
+
+    <string name="tag_quick">Nhanh</string>
+    <string name="tag_regular">Thông thường</string>
+    <string name="tag_available">Đang bán</string>
+    <string name="tag_unavailable">Ngừng bán</string>
+    <string name="price_format">Giá: %s VNĐ</string>
+</resources>
